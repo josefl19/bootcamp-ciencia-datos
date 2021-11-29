@@ -1,4 +1,4 @@
-,nombre,edad,genero,pais,email
+,name,age,gender,country,email
 0,Mr Jerome Thomas,73,male,United States,jerome.thomas@example.com
 1,Mr Gary Berry,70,male,United Kingdom,gary.berry@example.com
 2,Mr Noham Dubois,40,male,France,noham.dubois@example.com
@@ -199,3 +199,4 @@
 197,Mr Gabriel Berger,40,male,France,gabriel.berger@example.com
 198,Mrs Ülkü Tanrıkulu,37,female,Turkey,ulku.tanrikulu@example.com
 199,Mr Raff Valkema,60,male,Netherlands,raff.valkema@example.com
+200,Mr Jose Fujarte,23,male,Mexico,
